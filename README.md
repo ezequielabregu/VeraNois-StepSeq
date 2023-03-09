@@ -1,9 +1,8 @@
 # VeraNois-StepSeq
 16 / 32 Steps Sequencer.
-
 &nbsp;
 
-<img src="veranoisStepseq.png" alt="alt text" title="Vera Nois Step Sequencer VST Plug-in" width="250"/>
+<img src="veranoisStepseq.png" alt="alt text" title="Vera Nois Step Sequencer VST Plug-in" width="450"/>
 
 &nbsp;
 
