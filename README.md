@@ -15,6 +15,6 @@
 * 6 music scales (Chromatic, Major, Minor, Major Pentatonic, Minor Pentatonic, Hexaphonic)
 * Step skipping
 * Clock devider
-
+* Save and load presets
 
 
