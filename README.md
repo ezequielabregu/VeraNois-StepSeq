@@ -7,7 +7,7 @@
 &nbsp;
 
 ## Features:
-* VST plug-in
+* VST plug-in for Windows & Mac.
 * 16 / 32 steps sequencer
 * Free BPM or DAW sync
 * Note length & Transpose controls
